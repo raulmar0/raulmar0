@@ -7,9 +7,9 @@
 const RaulMar = {
   pronouns: "He" | "Him",
   code: [TypeScript, JavaScript, CSS, HTML, Python], 
-  tools: [Git, npm, Linux, Figma, RaspberryPi, Arduino, VSCode],
-  areas: ["Softdev", "Electronics"],
-  training: [INSA Lyon, UANL, Platzi],
+  tools: [Git, Azure-DevOps, Linux, npm, VSCode, RaspberryPi, Arduino],
+  areas: [Softdev, Electronics],
+  training: [INSA-Lyon, UANL, Platzi],
   hobbies: ["Touch Typing", "Swimming"],
 }
 ```
