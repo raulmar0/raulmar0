@@ -37,6 +37,3 @@
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![](https://img.shields.io/badge/internet-blueviolet?style=for-the-badge&logo=Google-chrome&logoColor=white)
-
-## My current goal is to contribute more to open source. 
-![](https://github-readme-stats.vercel.app/api?username=raulmar0&theme=blue-green)
