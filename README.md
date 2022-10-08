@@ -18,8 +18,9 @@
 ![](https://img.shields.io/badge/HTML_5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS_3-blue?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Tools
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
