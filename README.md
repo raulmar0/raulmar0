@@ -6,7 +6,7 @@
 
 📍 Monterrey, México
 
-💻 Currently working @ Epicor Sofware as **Product developer intern**
+💻 Currently working @ Epicor Sofware as **Product developer**
 
 💬 I like romance languagues, latin rhythms and just connecting with people :)
 
