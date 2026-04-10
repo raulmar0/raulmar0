@@ -9,4 +9,5 @@
 🎓 Mechatronics Engineering @ UANL, Electrical Engineering @ INSA Lyon
 
 ## Tools
-https://img.shields.io/badge/Claude_Code-555?logo=claude
+[![]([https://img.shields.io/badge/Portfolio-7D4698.svg?style=for-the-badge&logo=Google-chrome&logoColor=white](https://img.shields.io/badge/Claude_Code-555?logo=claude))]
+
