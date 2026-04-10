@@ -1,10 +1,14 @@
-# about me (5 yoe)
+# about me 
 
 📍 Monterrey, México
 
-💻 Currently working @ Puul as **Software Engineer**
+👉 5 yoe
 
-🎓 Mechatronics Engineering @ UANL, Electrical Engineering @ INSA Lyon
+💻 **Software Engineer** @ [Puul](https://www.puul.co/)
+
+🎓 Mechatronics Engineering @ [UANL](https://en.wikipedia.org/wiki/Institut_national_des_sciences_appliqu%C3%A9es_de_Lyon)
+
+🎓 MSc Electrical Engineering @ [INSA Lyon](https://en.wikipedia.org/wiki/Institut_national_des_sciences_appliqu%C3%A9es_de_Lyon)
 
 _**AI-assisted development**_ &nbsp; 👉 &nbsp; [![](https://img.shields.io/badge/Claude_Code-555?logo=claude)](https://raulmar.com)
 
